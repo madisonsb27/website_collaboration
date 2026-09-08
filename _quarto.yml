@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "website_collaboration"
+  title: "Cute puppies"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resources.qmd
 
 format:
   html:

@@ -2,4 +2,6 @@
 title: "Our Cool Website"
 ---
 
-We are creatign a cool website.
+![](https://moderndogmagazine.com/wp-content/uploads/2024/09/PuppyMilestones_bs-366740632_Piyawat-Nandeenopparit-940x640.jpg)
+
+We are creating a cool website.

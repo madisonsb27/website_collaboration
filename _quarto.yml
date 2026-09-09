@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Cute puppies"
+  title: "Adopt Don't Shop"
   navbar:
     left:
       - href: index.qmd

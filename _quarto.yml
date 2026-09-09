@@ -10,7 +10,7 @@ website:
         text: Home
       - about.qmd
       - href: resources.qmd
-        text: Res
+        text: Adoption
 
 format:
   html:
